@@ -1,0 +1,15 @@
+/workspaces/csharp-practice/HelloCSharp/bin/Debug/net10.0/HelloCSharp
+/workspaces/csharp-practice/HelloCSharp/bin/Debug/net10.0/HelloCSharp.deps.json
+/workspaces/csharp-practice/HelloCSharp/bin/Debug/net10.0/HelloCSharp.runtimeconfig.json
+/workspaces/csharp-practice/HelloCSharp/bin/Debug/net10.0/HelloCSharp.dll
+/workspaces/csharp-practice/HelloCSharp/bin/Debug/net10.0/HelloCSharp.pdb
+/workspaces/csharp-practice/HelloCSharp/obj/Debug/net10.0/HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp-practice/HelloCSharp/obj/Debug/net10.0/HelloCSharp.AssemblyInfoInputs.cache
+/workspaces/csharp-practice/HelloCSharp/obj/Debug/net10.0/HelloCSharp.AssemblyInfo.cs
+/workspaces/csharp-practice/HelloCSharp/obj/Debug/net10.0/HelloCSharp.csproj.CoreCompileInputs.cache
+/workspaces/csharp-practice/HelloCSharp/obj/Debug/net10.0/HelloCSharp.sourcelink.json
+/workspaces/csharp-practice/HelloCSharp/obj/Debug/net10.0/HelloCSharp.dll
+/workspaces/csharp-practice/HelloCSharp/obj/Debug/net10.0/refint/HelloCSharp.dll
+/workspaces/csharp-practice/HelloCSharp/obj/Debug/net10.0/HelloCSharp.pdb
+/workspaces/csharp-practice/HelloCSharp/obj/Debug/net10.0/HelloCSharp.genruntimeconfig.cache
+/workspaces/csharp-practice/HelloCSharp/obj/Debug/net10.0/ref/HelloCSharp.dll
